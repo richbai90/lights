@@ -15,5 +15,5 @@ pip install -r requirements.txt
 python3 test/test.py
 ```
 
-If you are using python we reccomend using venv to install your dependencies
+If you are using python we reccomend using `venv` to install your dependencies
 
